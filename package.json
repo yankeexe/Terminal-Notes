@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "list": "node app.js list",
-    "add": "node app.js add",
+    "add": "node app.js add -t",
     "read": "node app.js read -t",
     "delete": "node app.js delete -t"
   },
