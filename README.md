@@ -11,11 +11,11 @@ Quickly take notes, list them, fetch them, delete them, all from the terminal.
 
 >Read a note
 
-`npm run read 'title_name'
+`npm run read 'title_name'`
 
 >List all notes
 
-`npm run list'
+`npm run list'`
 
 >Delete a note
 
