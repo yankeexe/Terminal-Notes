@@ -1,5 +1,5 @@
 # NodeNote
- :notebook: Take Notes on your Terminal! 
+ :notebook: Take Notes in your Terminal! 
 ### Description 
 Quickly take notes, list them, fetch them, delete them, all from the terminal. 
 
